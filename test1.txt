@@ -1,2 +1,6 @@
 testing
+<<<<<<< HEAD
 my testing file
+=======
+this is my first change.
+>>>>>>> d6e8c30 (first change in test1.txt)
